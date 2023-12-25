@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samaggisarode
+- 👋 Hi, I’m @samaggi,
 - 👀 I’m interested in Data analytics.
 - 🌱 I’m currently learning tools like power BI, MySQL,Adv excel.
 - 📫 How to reach me - ssamaggi2000@gmail.com./ linkdin.com/in/samaggi sarode
